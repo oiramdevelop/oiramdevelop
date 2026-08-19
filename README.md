@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2c4a,100:4a90e2&height=200&section=header&text=Mario%20Rodr%C3%ADguez&fontSize=48&fontColor=ffffff&desc=Data%20y%20Backend%20Developer&descSize=20&descAlignY=65" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=4A90E2&center=true&vCenter=true&width=650&height=45&lines=Python+%7C+Pandas+%7C+SQL;Vengo+del+codigo+y+me+quede+en+los+datos;Cadiz%2C+España+-+disponible+en+remoto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=4A90E2&center=true&vCenter=true&width=650&height=45&lines=Python+%7C+Pandas+%7C+SQL;Vengo+del+codigo+y+me+quede+en+los+datos;Cadiz%2C+Espana+-+disponible+en+remoto" />
 
 <br/><br/>
 
